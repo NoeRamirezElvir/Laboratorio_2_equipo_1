@@ -1,0 +1,3 @@
+﻿  Estante.cpp
+  Catalago.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+LINK : fatal error LNK1561: se debe definir el punto de entrada
